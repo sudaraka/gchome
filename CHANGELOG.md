@@ -13,4 +13,5 @@ details.
 
 ## [Unreleased]
 ### Added
+- `gchome.sh` that have been brewing in my $HOME/bin since 2014.
 - README, LICENSE and CHANGELOG
