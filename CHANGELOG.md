@@ -11,7 +11,7 @@ details.
 
 ---
 
-## [Unreleased]
+## [1.0.0] - 2016-04-02
 ### Added
 - package.json: use `npm` to distribute application.
 - `gchome.sh` that have been brewing in my $HOME/bin since 2014.
