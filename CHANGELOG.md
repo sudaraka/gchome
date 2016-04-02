@@ -13,5 +13,6 @@ details.
 
 ## [Unreleased]
 ### Added
+- package.json: use `npm` to distribute application.
 - `gchome.sh` that have been brewing in my $HOME/bin since 2014.
 - README, LICENSE and CHANGELOG

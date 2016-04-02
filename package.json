@@ -1,0 +1,24 @@
+{
+  "name": "gchome",
+  "version": "0.0.0",
+  "description": "Run garbage collect on all `git` repositories found under `$HOME`.",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "gchome": "gchome.sh"
+  },
+  "scripts": {
+    "test": "exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudaraka/gchome.git"
+  },
+  "author": "Sudaraka Wijesinghe <sudaraka@sudaraka.org> (https://sudaraka.org/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sudaraka/gchome/issues"
+  },
+  "homepage": "https://github.com/sudaraka/gchome#readme",
+  "dependencies": {}
+}
