@@ -1,7 +1,7 @@
 {
   "name": "gchome",
   "version": "1.0.0",
-  "description": "Run garbage collect on all `git` repositories found under `$HOME`.",
+  "description": "Run garbage collect on all git repositories found under $HOME.",
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
